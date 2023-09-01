@@ -41,7 +41,7 @@ const FeatureList = [
   },
   {
     title:(
-      <a href= "docs/GPT/VoiceGPT/" target="_self" rel="noopener noreferrer">
+      <a href= "Hanmigpt/docs/GPT/VoiceGPT/" target="_self" rel="noopener noreferrer">
       Voice GPT
       </a>       
     ),  
