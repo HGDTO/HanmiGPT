@@ -9,7 +9,7 @@ import voicegpt from '../../../static/img/voicegpt.png';
 const FeatureList = [
   {
     title:(
-      <a href= "../../../docs/GPT/GPT-4/" target="_self" rel="noopener noreferrer">
+      <a href= "/../../../docs/GPT/GPT-4/" target="_self" rel="noopener noreferrer">
       GPT-4
       </a>       
     ),  
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title:(
-      <a href= "../../../docs/GPT/DocsGPT/" target="_self" rel="noopener noreferrer">
+      <a href= "/../../../docs/GPT/DocsGPT/" target="_self" rel="noopener noreferrer">
       Docs GPT
       </a>       
     ),  
@@ -41,7 +41,7 @@ const FeatureList = [
   },
   {
     title:(
-      <a href= "../../../docs/GPT/VoiceGPT/" target="_self" rel="noopener noreferrer">
+      <a href= "/../../../docs/GPT/VoiceGPT/" target="_self" rel="noopener noreferrer">
       Voice GPT
       </a>       
     ),  
@@ -75,7 +75,7 @@ const FeatureList = [
 
   {
     title:(
-      <a href= "../../../docs/GPT/Google/" target="_self" rel="noopener noreferrer">
+      <a href= "/../../../docs/GPT/Google/" target="_self" rel="noopener noreferrer">
       Google Search
       </a>       
     ),  
