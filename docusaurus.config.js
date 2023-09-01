@@ -77,7 +77,7 @@ const config = {
         },
         items: [
            {
-            href: 'http://localhost:3000/', //추후 URL 교체
+            href: '/', //추후 URL 교체
             label: 'Home',
             position: 'right',
             target:'_self'
