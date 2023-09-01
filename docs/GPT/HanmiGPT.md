@@ -1,0 +1,38 @@
+---
+slug: GPT-4
+title: GPT-4
+authors: [DTD]
+tags: [HanmiGPT]
+---
+![HanmiGPT](image\hanmigpt\Slide1.PNG)
+![HanmiGPT](image\hanmigpt\Slide2.PNG)
+![HanmiGPT](image\hanmigpt\Slide3.PNG)
+![HanmiGPT](image\hanmigpt\Slide4.PNG)
+![HanmiGPT](image\hanmigpt\Slide5.PNG)
+![HanmiGPT](image\hanmigpt\Slide6.PNG)
+![HanmiGPT](image\hanmigpt\Slide7.PNG)
+![HanmiGPT](image\hanmigpt\Slide8.PNG)
+![HanmiGPT](image\hanmigpt\Slide9.PNG)
+![HanmiGPT](image\hanmigpt\Slide10.PNG)
+![HanmiGPT](image\hanmigpt\Slide11.PNG)
+![HanmiGPT](image\hanmigpt\Slide12.PNG)
+![HanmiGPT](image\hanmigpt\Slide13.PNG)
+![HanmiGPT](image\hanmigpt\Slide14.PNG)
+![HanmiGPT](image\hanmigpt\Slide15.PNG)
+![HanmiGPT](image\hanmigpt\Slide16.PNG)
+![HanmiGPT](image\hanmigpt\Slide17.PNG)
+![HanmiGPT](image\hanmigpt\Slide18.PNG)
+![HanmiGPT](image\hanmigpt\Slide19.PNG)
+![HanmiGPT](image\hanmigpt\Slide20.PNG)
+![HanmiGPT](image\hanmigpt\Slide21.PNG)
+![HanmiGPT](image\hanmigpt\Slide22.PNG)
+![HanmiGPT](image\hanmigpt\Slide23.PNG)
+![HanmiGPT](image\hanmigpt\Slide24.PNG)
+![HanmiGPT](image\hanmigpt\Slide25.PNG)
+![HanmiGPT](image\hanmigpt\Slide26.PNG)
+![HanmiGPT](image\hanmigpt\Slide27.PNG)
+![HanmiGPT](image\hanmigpt\Slide32.PNG)
+![HanmiGPT](image\hanmigpt\Slide33.PNG)
+![HanmiGPT](image\hanmigpt\Slide34.PNG)
+![HanmiGPT](image\hanmigpt\Slide35.PNG)
+![HanmiGPT](image\hanmigpt\Slide31.PNG)

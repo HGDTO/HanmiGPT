@@ -1,0 +1,38 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #004484;
+  --ifm-color-primary-dark: #003d77;
+  --ifm-color-primary-darker: #003a70;
+  --ifm-color-primary-darkest: #00305c;
+  --ifm-color-primary-light: #004b91;
+  --ifm-color-primary-lighter: #004e98;
+  --ifm-color-primary-lightest: #0058ac;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #09bbef;
+  --ifm-color-primary-dark: #08a8d7;
+  --ifm-color-primary-darker: #089fcb;
+  --ifm-color-primary-darkest: #0683a7;
+  --ifm-color-primary-light: #1ac5f6;
+  --ifm-color-primary-lighter: #26c8f7;
+  --ifm-color-primary-lightest: #4ad1f8
+}
+
+a[href="#"] {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+}
+
+.custom-footer-title .footer__title {
+  font-size: 280em; /* 원하는 크기로 조정합니다 */
+}

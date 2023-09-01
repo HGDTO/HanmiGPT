@@ -1,0 +1,106 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 256px;
+  width: 256px;
+}
+
+.featureIMg {
+  height: 256px;
+  width: 256px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  font-family: inherit;
+}
+
+p
+{
+  text-align: left;
+  margin-top: 1px; /* 원하는 위쪽 마진 값으로 설정 */
+  margin-bottom: 1px; /* 원하는 아래쪽 마진 값으로 설정 */
+}
+
+.title {
+  text-align: center;
+  font-size: 32px; /* 원하는 폰트 크기로 설정 */
+  margin-top: 8px; /* 원하는 위쪽 마진 값으로 설정 */
+  margin-bottom: 24px; /* 원하는 아래쪽 마진 값으로 설정 */
+}
+
+.imageContainer {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.titleBanner {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 72, 132, 0.7); /* 배경색과 투명도 조절 */
+  color: white; /* 글자색 조절 */
+  text-align: center;
+  padding: 20px; /* 패딩 조절 */
+  opacity: 0;
+  transition: opacity 0.3s; /* 애니메이션 속도 조절 */
+  font-size: 32px; /* 원하는 폰트 크기로 설정 */
+  font-style: bold;
+}
+
+.imageContainer:hover .titleBanner {
+  opacity: 1;
+}
+
+.verticalSpacing {
+  margin-bottom: 64px; /* 원하는 아래쪽 마진 값으로 설정 */
+}
+
+.mainTitle {
+  font-size: 48px; /* 원하는 폰트 크기로 설정 */
+  text-align: center;
+  margin-top: 24px; /* 원하는 아래쪽 마진 값으로 설정 */
+  margin-bottom: 72px; /* 원하는 아래쪽 마진 값으로 설정 */
+}
+.titleBanner:hover {
+  cursor: pointer;
+}
+
+.titleBanner:hover,
+.titleBanner:focus {
+  color: red;
+}
+
+:root {
+  a:link,
+  a:visited {
+    color: Black; /* 링크의 기본 색상 */
+  }
+  
+  a:hover,
+  a:focus,
+  a:active {
+    color: maroon; /* 링크의 클릭 색상 */
+  }
+}
+
+[data-theme='dark'] {
+  a:link,
+  a:visited {
+    color: white; /* 링크의 기본 색상 */
+  }
+
+  a:hover,
+  a:focus,
+  a:active {
+    color: maroon; /* 링크의 클릭 색상 */
+  }
+}
