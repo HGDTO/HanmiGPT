@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>한미글로벌 HanmiGPT Blog</title>
-        <link>https://github.com/HGDTO/Hanmigpt/blog</link>
+        <link>https://github.com/Hanmigpt/blog</link>
         <description>한미글로벌 HanmiGPT Blog</description>
         <lastBuildDate>Fri, 01 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,13 +10,13 @@
         <language>en</language>
         <item>
             <title><![CDATA[HanmiGPT 참여 이벤트]]></title>
-            <link>https://github.com/HGDTO/Hanmigpt/blog/HanmiGPT 참여 이벤트</link>
-            <guid>https://github.com/HGDTO/Hanmigpt/blog/HanmiGPT 참여 이벤트</guid>
+            <link>https://github.com/Hanmigpt/blog/HanmiGPT 참여 이벤트</link>
+            <guid>https://github.com/Hanmigpt/blog/HanmiGPT 참여 이벤트</guid>
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[이벤트 참여]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="이벤트 참여" src="/HGDTO/Hanmigpt/assets/images/Slide1-c95a2cc45f20f66fab0db5a1200f64d8.PNG" width="1280" height="720" class="img_ev3q">
-<img loading="lazy" alt="이벤트 참여" src="/HGDTO/Hanmigpt/assets/images/Slide2-24ca928c66e0a08945bd0dbf41823b70.PNG" width="1280" height="720" class="img_ev3q">
-<img loading="lazy" alt="이벤트 참여" src="/HGDTO/Hanmigpt/assets/images/Slide3-a6901da938317b09c3b7711eb565bf69.PNG" width="1280" height="720" class="img_ev3q"></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="이벤트 참여" src="/Hanmigpt/assets/images/Slide1-c95a2cc45f20f66fab0db5a1200f64d8.PNG" width="1280" height="720" class="img_ev3q">
+<img loading="lazy" alt="이벤트 참여" src="/Hanmigpt/assets/images/Slide2-24ca928c66e0a08945bd0dbf41823b70.PNG" width="1280" height="720" class="img_ev3q">
+<img loading="lazy" alt="이벤트 참여" src="/Hanmigpt/assets/images/Slide3-a6901da938317b09c3b7711eb565bf69.PNG" width="1280" height="720" class="img_ev3q"></p>]]></content:encoded>
             <category>이벤트</category>
         </item>
     </channel>

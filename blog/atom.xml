@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/HGDTO/Hanmigpt/blog</id>
+    <id>https://github.com/Hanmigpt/blog</id>
     <title>한미글로벌 HanmiGPT Blog</title>
     <updated>2023-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/HGDTO/Hanmigpt/blog"/>
+    <link rel="alternate" href="https://github.com/Hanmigpt/blog"/>
     <subtitle>한미글로벌 HanmiGPT Blog</subtitle>
-    <icon>https://github.com/HGDTO/Hanmigpt/img/favicon.ico</icon>
+    <icon>https://github.com/Hanmigpt/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[HanmiGPT 참여 이벤트]]></title>
-        <id>https://github.com/HGDTO/Hanmigpt/blog/HanmiGPT 참여 이벤트</id>
-        <link href="https://github.com/HGDTO/Hanmigpt/blog/HanmiGPT 참여 이벤트"/>
+        <id>https://github.com/Hanmigpt/blog/HanmiGPT 참여 이벤트</id>
+        <link href="https://github.com/Hanmigpt/blog/HanmiGPT 참여 이벤트"/>
         <updated>2023-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[이벤트 참여]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="이벤트 참여" src="/HGDTO/Hanmigpt/assets/images/Slide1-c95a2cc45f20f66fab0db5a1200f64d8.PNG" width="1280" height="720" class="img_ev3q">
-<img loading="lazy" alt="이벤트 참여" src="/HGDTO/Hanmigpt/assets/images/Slide2-24ca928c66e0a08945bd0dbf41823b70.PNG" width="1280" height="720" class="img_ev3q">
-<img loading="lazy" alt="이벤트 참여" src="/HGDTO/Hanmigpt/assets/images/Slide3-a6901da938317b09c3b7711eb565bf69.PNG" width="1280" height="720" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="이벤트 참여" src="/Hanmigpt/assets/images/Slide1-c95a2cc45f20f66fab0db5a1200f64d8.PNG" width="1280" height="720" class="img_ev3q">
+<img loading="lazy" alt="이벤트 참여" src="/Hanmigpt/assets/images/Slide2-24ca928c66e0a08945bd0dbf41823b70.PNG" width="1280" height="720" class="img_ev3q">
+<img loading="lazy" alt="이벤트 참여" src="/Hanmigpt/assets/images/Slide3-a6901da938317b09c3b7711eb565bf69.PNG" width="1280" height="720" class="img_ev3q"></p>]]></content>
         <author>
             <name>Digital Transformation 추진실</name>
             <uri>https://www.digitalhanmi.com/</uri>
