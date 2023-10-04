@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhanmigptweb=self.webpackChunkhanmigptweb||[]).push([[525],{8311:e=>{e.exports=JSON.parse('{"label":"VoiceGPT","permalink":"/Hanmigpt/docs/tags/voice-gpt","allTagsPath":"/Hanmigpt/docs/tags","count":1,"items":[{"id":"GPT/VoiceGPT","title":"VoiceGPT","description":"VoiceGPT","permalink":"/Hanmigpt/docs/GPT/VoiceGPT"}]}')}}]);
